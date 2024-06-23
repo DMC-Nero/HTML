@@ -1,0 +1,25 @@
+.odd {
+    color: rgb(118, 113, 113);
+  }
+  .even {
+    color: aqua;
+  }
+  .code {
+    color: #008000;
+  }
+  #one {
+    color: blanchedalmond;
+  }
+
+  .head {
+    color: rgb(189, 207, 55);
+  }
+  body {
+    background-color:black ;
+  }
+
+  div {
+    height: 300px;
+    width: 400px;
+    background-color: red;
+  }
