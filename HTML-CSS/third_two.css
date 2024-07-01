@@ -20,3 +20,16 @@ footer {
     width: 250px;
     background-color: rgb(174, 233, 118);
 } */
+
+.one {
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 50px;
+    background-color: rgb(50, 131, 136);
+}
+
+.two {
+    border: 5px solid rgb(181, 74, 35);
+}
